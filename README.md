@@ -1,6 +1,13 @@
 # Health-Card-Distribution-Data-collection-with-Kobo
 Health Card Distribution Data collection with Kobo
 
+- URL      : https://kobo.humanitarianresponse.info/
+- Form URL : https://ee-eu.kobotoolbox.org/x/cb8E1kak
+- User Name: shakib_1
+- Password : shakib_1
+- XLSForm  : https://github.com/maeshakib/Health-Card-Distribution-Data-collection-with-Kobo/blob/main/aRxmVeqRgdrGTYZNxiY3ti_v14.xlsx
+
+
 ##### Types of sampling: sampling methods
 <br>
 
