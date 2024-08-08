@@ -1,5 +1,5 @@
 # Health-Card-Distribution-Data-collection-with-Kobo
-Health Card Distribution Data collection with Kobo
+This repository contains the scripts and documentation for the Health Card Distribution Data Collection project using Kobo Toolbox. 
 
 - URL           : https://kobo.humanitarianresponse.info/
 - Form URL      : https://ee-eu.kobotoolbox.org/x/cb8E1kak
@@ -7,6 +7,9 @@ Health Card Distribution Data collection with Kobo
 - Password      : shakib_1
 - XLSForm File  : https://github.com/maeshakib/Health-Card-Distribution-Data-collection-with-Kobo/blob/main/aRxmVeqRgdrGTYZNxiY3ti_v14.xlsx
 
+### Kobo Toolbox
+
+Kobo Toolbox is an open-source tool for mobile data collection. It is designed for use in challenging environments and is used by researchers, humanitarian organizations, and other professionals.
 
 ##### Types of sampling: sampling methods
 <br>
