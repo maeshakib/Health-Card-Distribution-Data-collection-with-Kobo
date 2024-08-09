@@ -2,25 +2,25 @@
 This repository contains the documentation for the Health Card Distribution Data Collection project using KoboToolbox. KoboToolbox allows the creation of data collection forms from an XLSForm, which is an Excel file structured in a standardized format. Once uploaded to KoboToolbox, this file generates the corresponding data collection form.
 Supported Question Types in XLSForm:
 
- -- Integer: Numeric input.
- -- Range: Numeric input within a specified range.
- -- Text: Free text response.
- -- select_one [options]: Single-choice question.
- -- Multiple choice question: select_multiple [options].
- -- select_one or select_multiple from_file: Load options from an external file.
- -- Geopoint: Capture GPS coordinates.
- -- Date input: Date selection.
- -- dateTime: Date and time selection.
- -- Image: Image upload.
- -- File: Generic file input (e.g., txt, pdf, xls, xlsx, doc, docx, rtf, zip).
- -- Hidden: Hidden fields not visible to the user.
+ - Integer: Numeric input.
+ - Range: Numeric input within a specified range.
+ - Text: Free text response.
+ - select_one [options]: Single-choice question.
+ - Multiple choice question: select_multiple [options].
+ - select_one or select_multiple from_file: Load options from an external file.
+ - Geopoint: Capture GPS coordinates.
+ - Date input: Date selection.
+ - dateTime: Date and time selection.
+ - Image: Image upload.
+ - File: Generic file input (e.g., txt, pdf, xls, xlsx, doc, docx, rtf, zip).
+ - Hidden: Hidden fields not visible to the user.
 
 Additional XLSForm Features implemented:
 
- -- field-list: Used the field-list appearance on a group to display multiple questions on the same screen.
- -- relevant: Utilized the relevant column to conditionally display a select_one or select_multiple question.
- -- calculation: Performed calculations based on the values of preceding questions.
- -- choice_filter: Implemented cascading selects using the choice_filter column.
+ - field-list: Used the field-list appearance on a group to display multiple questions on the same screen.
+ - relevant: Utilized the relevant column to conditionally display a select_one or select_multiple question.
+ - calculation: Performed calculations based on the values of preceding questions.
+ - choice_filter: Implemented cascading selects using the choice_filter column.
 
 - URL           : https://kobo.humanitarianresponse.info/
 - Form URL      : https://ee-eu.kobotoolbox.org/x/cb8E1kak
